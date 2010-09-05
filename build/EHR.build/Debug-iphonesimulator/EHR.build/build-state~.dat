@@ -1,0 +1,201 @@
+TEHR
+v7
+r0
+t305293697.216858
+cCheck dependencies
+cProcessInfoPlistFile /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/Info.plist EHR-Info.plist
+cProcessPCH /var/folders/SX/SXSPD-inF9qbNqyabXpuY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EHR_Prefix-disolduwicgqeadgbyejeyaxibag/EHR_Prefix.pch.gch EHR_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/main.o /Users/masu/Documents/iphone/EHR/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/EHRAppDelegate.o /Users/masu/Documents/iphone/EHR/Classes/EHRAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR normal i386
+cGenerateDSYMFile /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app.dSYM /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR
+cTouch /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BBB42780000000000000110
+t1270563448
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/masu/Documents/iphone/EHR/Classes/EHRAppDelegate.h
+c000000004C8231CB0000000000000134
+t1283600843
+s308
+i<UIKit/UIKit.h>
+
+N/Users/masu/Documents/iphone/EHR/Classes/EHRAppDelegate.m
+c000000004C8231CB000000000000020C
+t1283600843
+s524
+i"EHRAppDelegate.h"
+
+N/Users/masu/Documents/iphone/EHR/EHR_Prefix.pch
+c000000004C8231CB00000000000000AF
+t1283600843
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/masu/Documents/iphone/EHR/MainWindow.xib
+c000000004C8231CB0000000000003E59
+t1283600843
+s15961
+
+N/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app
+t1283600897
+s170
+
+N/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app.dSYM
+t1283600897
+s102
+
+N/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR
+t1283600897
+s18344
+
+N/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/Info.plist
+t1283600896
+s742
+
+N/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/MainWindow.nib
+t2
+s0
+
+N/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/PkgInfo
+t1283600896
+s8
+
+N/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/EHR.LinkFileList
+c000000004C82320000000000000000E2
+t1283600896
+s226
+
+N/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/EHRAppDelegate.o
+t1283600896
+s17824
+
+N/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/main.o
+t1283600896
+s6108
+
+N/Users/masu/Documents/iphone/EHR/main.m
+c000000004C8231FE000000000000016C
+t1283600894
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/SX/SXSPD-inF9qbNqyabXpuY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EHR_Prefix-disolduwicgqeadgbyejeyaxibag/EHR_Prefix.pch.gch
+t1283600896
+s13805456
+
+NEHR-Info.plist
+c000000004C823200000000000000046C
+t1283600896
+s1132
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305293696#305293696#0(0"0(0#1#0"8245940720249172992#0"0#
+
+CCompileC build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/EHRAppDelegate.o /Users/masu/Documents/iphone/EHR/Classes/EHRAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305293696.833457
+e305293696.946964
+r1
+xCompileC
+xbuild/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/EHRAppDelegate.o
+x/Users/masu/Documents/iphone/EHR/Classes/EHRAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/masu/Documents/iphone/EHR/Classes/EHRAppDelegate.m305293696#305293696#0(0"0(0#0#57"/Users/masu/Documents/iphone/EHR/Classes/EHRAppDelegate.m4324459736#1739"    cd /Users/masu/Documents/iphone/EHR    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-generated-files.hmap -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-own-target-headers.hmap -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-all-target-headers.hmap -iquote /Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-project-headers.hmap -F/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator -I/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/include -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/DerivedSources/i386 -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/DerivedSources -include /var/folders/SX/SXSPD-inF9qbNqyabXpuY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EHR_Prefix-disolduwicgqeadgbyejeyaxibag/EHR_Prefix.pch -c /Users/masu/Documents/iphone/EHR/Classes/EHRAppDelegate.m -o /Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/EHRAppDelegate.o0#
+
+CCompileC build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/main.o /Users/masu/Documents/iphone/EHR/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305293696.832789
+e305293696.943855
+r1
+xCompileC
+xbuild/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/main.o
+x/Users/masu/Documents/iphone/EHR/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/masu/Documents/iphone/EHR/main.m305293696#305293696#0(0"0(0#0#39"/Users/masu/Documents/iphone/EHR/main.m4324459736#1711"    cd /Users/masu/Documents/iphone/EHR    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-generated-files.hmap -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-own-target-headers.hmap -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-all-target-headers.hmap -iquote /Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-project-headers.hmap -F/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator -I/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/include -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/DerivedSources/i386 -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/DerivedSources -include /var/folders/SX/SXSPD-inF9qbNqyabXpuY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EHR_Prefix-disolduwicgqeadgbyejeyaxibag/EHR_Prefix.pch -c /Users/masu/Documents/iphone/EHR/main.m -o /Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/masu/Documents/iphone/EHR/MainWindow.xib
+r0
+
+CGenerateDSYMFile /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app.dSYM /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR
+s305293697.191563
+e305293697.214334
+r1
+xGenerateDSYMFile
+x/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app.dSYM
+x/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/EHR.app.dSYM build/Debug-iphonesimulator/EHR.app/EHR305293697#305293697#0(0"0(0#0#72"/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR4324459736#353"    cd /Users/masu/Documents/iphone/EHR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR -o /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app.dSYM0#
+
+CLd /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR normal i386
+s305293696.947020
+e305293697.191475
+r1
+xLd
+x/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR
+xnormal
+xi386
+lSLF07#2@77"Link /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR305293696#305293697#0(0"0(0#0#0"4324459736#812"    cd /Users/masu/Documents/iphone/EHR    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator -F/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator -filelist /Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/Objects-normal/i386/EHR.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/EHR0#
+
+CProcessInfoPlistFile /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/Info.plist EHR-Info.plist
+s305293696.216901
+e305293696.251934
+r1
+xProcessInfoPlistFile
+x/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/Info.plist
+xEHR-Info.plist
+lSLF07#2@22"Process EHR-Info.plist305293696#305293696#0(0"0(0#0#47"/Users/masu/Documents/iphone/EHR/EHR-Info.plist31244220637446252#449"    cd /Users/masu/Documents/iphone/EHR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility EHR-Info.plist -genpkginfo /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app/Info.plist0#
+
+CProcessPCH /var/folders/SX/SXSPD-inF9qbNqyabXpuY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EHR_Prefix-disolduwicgqeadgbyejeyaxibag/EHR_Prefix.pch.gch EHR_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305293696.252180
+e305293696.832720
+r1
+xProcessPCH
+x/var/folders/SX/SXSPD-inF9qbNqyabXpuY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EHR_Prefix-disolduwicgqeadgbyejeyaxibag/EHR_Prefix.pch.gch
+xEHR_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile EHR_Prefix.pch305293696#305293696#0(0"0(0#0#47"/Users/masu/Documents/iphone/EHR/EHR_Prefix.pch4324459736#1613"    cd /Users/masu/Documents/iphone/EHR    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-generated-files.hmap -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-own-target-headers.hmap -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-all-target-headers.hmap -iquote /Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/EHR-project-headers.hmap -F/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator -I/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/include -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/DerivedSources/i386 -I/Users/masu/Documents/iphone/EHR/build/EHR.build/Debug-iphonesimulator/EHR.build/DerivedSources -c /Users/masu/Documents/iphone/EHR/EHR_Prefix.pch -o /var/folders/SX/SXSPD-inF9qbNqyabXpuY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EHR_Prefix-disolduwicgqeadgbyejeyaxibag/EHR_Prefix.pch.gch0#
+
+CTouch /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app
+s305293697.214402
+e305293697.216828
+r1
+xTouch
+x/Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app
+lSLF07#2@74"Touch /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app305293697#305293697#0(0"0(0#0#0"4324459736#262"    cd /Users/masu/Documents/iphone/EHR    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/masu/Documents/iphone/EHR/build/Debug-iphonesimulator/EHR.app0#
+
